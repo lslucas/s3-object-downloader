@@ -1,0 +1,5 @@
+build/
+dist/
+.env
+app-copy.py
+__pycache__
